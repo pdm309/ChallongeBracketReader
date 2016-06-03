@@ -1,0 +1,13 @@
+c:\users\paul\documents\visual studio 2013\Projects\ChallongeBracketReader\ChallongeBracketReader\bin\Debug\ChallongeBracketReader.exe.config
+C:\Users\Paul\Documents\Visual Studio 2013\Projects\ChallongeBracketReader\ChallongeBracketReader\bin\Debug\ChallongeBracketReader.exe
+C:\Users\Paul\Documents\Visual Studio 2013\Projects\ChallongeBracketReader\ChallongeBracketReader\bin\Debug\ChallongeBracketReader.pdb
+C:\Users\Paul\Documents\Visual Studio 2013\Projects\ChallongeBracketReader\ChallongeBracketReader\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Paul\Documents\Visual Studio 2013\Projects\ChallongeBracketReader\ChallongeBracketReader\bin\Debug\System.Net.Http.Formatting.dll
+C:\Users\Paul\Documents\Visual Studio 2013\Projects\ChallongeBracketReader\ChallongeBracketReader\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Paul\Documents\Visual Studio 2013\Projects\ChallongeBracketReader\ChallongeBracketReader\bin\Debug\System.Net.Http.Formatting.xml
+C:\Users\Paul\Documents\Visual Studio 2013\Projects\ChallongeBracketReader\ChallongeBracketReader\obj\Debug\ChallongeBracketReader.csprojResolveAssemblyReference.cache
+C:\Users\Paul\Documents\Visual Studio 2013\Projects\ChallongeBracketReader\ChallongeBracketReader\obj\Debug\ChallongeBracketReader.exe
+C:\Users\Paul\Documents\Visual Studio 2013\Projects\ChallongeBracketReader\ChallongeBracketReader\obj\Debug\ChallongeBracketReader.pdb
+C:\Users\Paul\Desktop\ChallongeBracketReader\ChallongeBracketReader\bin\Debug\ChallongeBracketReader.exe.config
+C:\Users\Paul\Desktop\ChallongeBracketReader\ChallongeBracketReader\obj\Debug\ChallongeBracketReader.exe
+C:\Users\Paul\Desktop\ChallongeBracketReader\ChallongeBracketReader\obj\Debug\ChallongeBracketReader.pdb
