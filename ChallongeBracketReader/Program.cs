@@ -19,22 +19,18 @@ namespace ChallongeBracketReader
     {
         static void Main(string[] args)
         {
+
             //Console.WriteLine("Write the challonge bracket url in full: \n>");
             //string url = Console.ReadLine();
             //check url for errors such as not having challonge or .com or maybe even http(s) and www
             Console.WriteLine("Enter challonge tournament url: \n");
             string url = Console.ReadLine();
-            if (ValidateURL(url))
+            if (Uri.IsWellFormedUriString(url, UriKind.RelativeOrAbsolute))
             {
                 RunAsync(url).Wait();
                 Console.ReadLine();
             }
             
-        }
-
-        static bool ValidateURL(string url)
-        {
-            return true;
         }
 
         static async Task RunAsync(string url)
