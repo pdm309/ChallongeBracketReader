@@ -99,7 +99,7 @@ namespace ChallongeBracketReader
             /*Trying to access scores*/
             //client.DownloadData(requestScores).SaveAs("scores");
 
-
+			/*
             String score = "scores_csv";
             var requestScores = new RestRequest(string.Format("tournaments/{0}/matches/{1}/attachments/{2}.{json|xml}", tournamentId, matchId, score), Method.GET);
             requestScores.AddParameter("api_key", ApiKey);
@@ -110,8 +110,9 @@ namespace ChallongeBracketReader
             //requestScores.AddParameter("match[scores_csv]", scores.Select(ss => ss.ToString()).Aggregate((one, two) => string.Format("{0},{1}", one, two)));
             var responseScores = client.Execute(requestScores);
             throwOnError(responseScores);
+			*/
             /*Trying to access scores*/
-
+			
 
             var response = client.Execute(request);
             throwOnError(response);
